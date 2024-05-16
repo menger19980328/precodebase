@@ -1,17 +1,16 @@
 {
   "apiID": "package_812b3c__c__function_aadgiq4urm6da",
-  "apiName": "go011",
+  "apiName": "go01",
   "label": {
-    "zh_CN": "新建go函数1",
-    "en_US": null
+    "zh_CN": "新建go函数",
+    "en_US": ""
   },
   "description": {
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
-  "isPublicAPI": false,
-  "frontendSDKInvokable": true,
   "longTaskMode": true,
+  "frontendSDKInvokable": true,
   "input": [],
   "output": []
 }
