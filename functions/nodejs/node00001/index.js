@@ -12,6 +12,7 @@
 module.exports = async function (params, context, logger) {
   // 日志功能
    logger.info(`${new Date()} 函数开始执行本地12页面`);
+   logger.info(`${new Date()} 函数开始执行本地12本地`);
 
   // 在这里补充业务代码
 }
