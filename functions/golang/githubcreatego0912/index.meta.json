@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadg3sd34y2bi",
+  "apiName": "githubcreatego0912",
+  "label": {
+    "zh_CN": "0912githubcreatego",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
