@@ -1,4 +1,4 @@
-package go01
+package gocli0926
 
 import (
 	"context"
@@ -27,7 +27,7 @@ func Handler(ctx context.Context, params *Params) (*Result, error) {
 	// 日志功能
 	// application.GetLogger(ctx).Infof("%s 函数开始执行", time.Now().Format("2006-01-02 15:04:05.999"))
 
-	// 在这里补充业务代码123
+	// 在这里补充业务代码
 
 	return &Result{}, nil
 }

@@ -1,16 +1,16 @@
 {
-  "apiID": "package_812b3c__c__function_aadgiq4urm6da",
-  "apiName": "go01",
+  "apiID": "package_812b3c__c__function_aadhjrkirp2aa",
+  "apiName": "go1202",
   "label": {
-    "zh_CN": "新建go函数",
-    "en_US": ""
+    "zh_CN": "go 1202",
+    "en_US": "go 1202"
   },
   "description": {
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
   "longTaskMode": true,
-  "frontendSDKInvokable": true,
+  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }

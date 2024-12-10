@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadhazc6kkkdg",
+  "apiName": "longtask1015",
+  "label": {
+    "zh_CN": "longtask 1015",
+    "en_US": "longtask 1015"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
