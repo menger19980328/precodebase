@@ -1,7 +1,10 @@
-package go01
+package go001
 
 import (
 	"context"
+	"time"
+
+	"github.com/byted-apaas/server-sdk-go/application"
 )
 
 /*Params 函数入参定义
@@ -25,9 +28,9 @@ type Result struct {
  */
 func Handler(ctx context.Context, params *Params) (*Result, error) {
 	// 日志功能
-	// application.GetLogger(ctx).Infof("%s 函数开始执行", time.Now().Format("2006-01-02 15:04:05.999"))
+	application.GetLogger(ctx).Infof("%s 函数开始执行本地12", time.Now().Format("2006-01-02 15:04:05.999"))
 
-	// 在这里补充业务代码123
+	// 在这里补充业务代码
 
 	return &Result{}, nil
 }

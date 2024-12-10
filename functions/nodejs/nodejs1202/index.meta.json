@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadhjrmg6pmqi",
+  "apiName": "nodejs1202",
+  "label": {
+    "zh_CN": "nodejs 1202",
+    "en_US": "nodejs 1202"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

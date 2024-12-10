@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadguiio56mbu",
+  "apiName": "nodenewbranch",
+  "label": {
+    "zh_CN": "nodenewbranch",
+    "en_US": "nodenewbranch"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

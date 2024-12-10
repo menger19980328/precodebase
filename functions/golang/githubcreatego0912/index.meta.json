@@ -1,8 +1,8 @@
 {
-  "apiID": "package_812b3c__c__function_aadgiq4urm6da",
-  "apiName": "go01",
+  "apiID": "package_812b3c__c__function_aadg3sd34y2bi",
+  "apiName": "githubcreatego0912",
   "label": {
-    "zh_CN": "新建go函数",
+    "zh_CN": "0912githubcreatego",
     "en_US": ""
   },
   "description": {
@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "longTaskMode": true,
-  "frontendSDKInvokable": true,
+  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }
