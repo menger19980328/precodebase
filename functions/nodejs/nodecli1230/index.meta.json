@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadhobq3q2say",
+  "apiName": "nodecli1230",
+  "label": {
+    "zh_CN": "nodecli 1230",
+    "en_US": "nodecli 1230"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
