@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadhqraljvcai",
+  "apiName": "go0113",
+  "label": {
+    "zh_CN": "go 0113",
+    "en_US": "go 0113"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
