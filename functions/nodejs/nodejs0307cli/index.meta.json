@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadhziqmdeunu",
+  "apiName": "nodejs0307cli",
+  "label": {
+    "zh_CN": "nodejs 0307 cli",
+    "en_US": "nodejs 0307 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

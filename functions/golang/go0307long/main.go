@@ -1,4 +1,4 @@
-package go01
+package go0307long
 
 import (
 	"context"
@@ -9,6 +9,7 @@ import (
  * 结构体属性支持自定义, 和 index.meta.json 中的 input 参数一一对应
  */
 type Params struct {
+	// ParamID string `json:"param_id"`
 }
 
 /*Result 函数出参定义
@@ -16,6 +17,7 @@ type Params struct {
  * 结构体属性支持自定义, 和 index.meta.json 中的 output 参数一一对应
  */
 type Result struct {
+	// ResultID string `json:"result_id"`
 }
 
 /*Handler 函数入口
@@ -25,9 +27,9 @@ type Result struct {
  */
 func Handler(ctx context.Context, params *Params) (*Result, error) {
 	// 日志功能
-	// application.GetLogger(ctx).Infof("%s 函数开始执行111", time.Now().Format("2006-01-02 15:04:05.999"))
+	// application.GetLogger(ctx).Infof("%s 函数开始执行", time.Now().Format("2006-01-02 15:04:05.999"))
 
-	// 在这里补充业务代码123
+	// 在这里补充业务代码
 
 	return &Result{}, nil
 }
