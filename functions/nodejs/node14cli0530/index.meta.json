@@ -1,9 +1,9 @@
 {
-  "apiID": "package_812b3c__c__function_aadidqmec2ufq",
-  "apiName": "node20cli0508",
+  "apiID": "package_812b3c__c__function_aadihe6dcjadq",
+  "apiName": "node14cli0530",
   "label": {
-    "zh_CN": "node 20 cli 0508",
-    "en_US": "node 20 cli 0508"
+    "zh_CN": "node 14 cli 0530",
+    "en_US": "node 14 cli 0530"
   },
   "description": {
     "zh_CN": "自定义函数",
