@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadijk2dhb4lq",
+  "apiName": "node140612cli",
+  "label": {
+    "zh_CN": "node 140612 cli",
+    "en_US": "node 140612 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
