@@ -1,0 +1,16 @@
+{
+  "apiID": "package_812b3c__c__function_aadjtvqkwp4vu",
+  "apiName": "autoTestNodejsFunc1771929279751",
+  "label": {
+    "zh_CN": "auto Test Nodejs Func 1771929279751",
+    "en_US": "auto Test Nodejs Func 1771929279751"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
