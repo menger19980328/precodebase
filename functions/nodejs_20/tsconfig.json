@@ -1,21 +1,19 @@
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "noImplicitAny": true,
-    "removeComments": true,
-    "preserveConstEnums": true,
-    "allowJs": true,
-    "noEmit": true,
-    "lib": [
-      "ES2019"
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "allowJs": true,
+        "noEmit": true,
+        "lib": [
+            "ES2019"
+        ]
+    },
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "node_modules"
     ]
-  },
-  "include": [
-    "**/*",
-    "../../.kldx/typings/cloud_function_20/*.d.ts",
-    "../../.ae/typings/cloud_function_20/*.d.ts"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
 }
